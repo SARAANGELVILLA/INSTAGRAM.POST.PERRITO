@@ -1,0 +1,66 @@
+body {
+background-color:gray;
+align-content: center;
+}
+
+#logohtml {
+    white-space: 890px;
+}
+
+.fa-html5 {
+font-size: 50px;
+}
+
+.inicio {
+    display: flex;
+    padding: 9px;
+    font-size: 21px;
+}
+
+.container {
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    border-radius: 1%;
+    border: solid;
+    
+    
+}
+.elipsis {
+    margin-left: 430px;
+    font-size: 30px;
+}
+
+#like {
+    text-align: justify;
+    padding-left: 2%;
+}
+
+#texto {
+    text-align: justify;
+    padding-left: 2%;
+    width: auto;
+    padding-right: 2%;
+
+}
+
+.iconos {
+    font-size: 20px;
+    display: flex;
+    padding: 2%;
+   
+}
+#estrella {
+    margin-left: 480px;
+}
+.uno{
+    padding-left: 4px;
+}
+#sara {
+    padding-left: 10px;
+    text-align: justify;
+}
+.uno, .dos, .tres {
+    padding-right: 5px;
+}
